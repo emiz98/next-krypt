@@ -13,7 +13,7 @@ const Home = () => {
     <div className="min-h-screen">
       <Head>
         <title>Krypt</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/images/favicon.ico" />
       </Head>
       <div className="gradient-bg-welcome py-3 px-5 md:py-0 md:px-0">
         <Navbar />
