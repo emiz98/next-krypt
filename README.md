@@ -1,6 +1,6 @@
 ## Krypt
 
-![cover](cover.png)
+![main image](https://cdn.sanity.io/images/1z5g6za5/production/9d730166f5e04483fc884eee086ae9e2a735d20d-1272x838.png?w=2000&fit=max&auto=format)
 
 ## Table of Contents
 
