@@ -17,8 +17,6 @@ This is a decentralized Little Hearts redesign and development project that can 
 
 ## Features
 
-A few of the things you can do with Netflix 2.0:
-
 🚀 Donate using ethereum <br/>
 🚀 Authentication using Metamask <br/>
 🚀 Add Donation Event <br/>
